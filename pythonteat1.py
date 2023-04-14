@@ -4,3 +4,4 @@ print(divyang)
 def myfun():
     print(divyang)
 mfun()
+hi how are you ?
