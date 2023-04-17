@@ -34,3 +34,8 @@ def temp5():
 	c=a+b
 	pass
 
+def temp5():
+	a=5
+	b=10
+	c=a+b
+	pass
