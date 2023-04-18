@@ -9,4 +9,3 @@ then
 else
     #else print this
     echo "a is not equal to b"
-fi
